@@ -18,6 +18,6 @@ from django.urls import path
 from restaurants import views
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('hello/',views.test,name='walaa'),
+    path('hello/',views.test,name='alrefaee'),
 ]
 
